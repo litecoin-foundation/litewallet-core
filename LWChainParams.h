@@ -1,6 +1,6 @@
 //
 //  LWChainParams.h
-//  https://github.com/litecoin-foundation/litewallet-core#readme#OpenSourceLink
+//  https://github.com/litecoin-foundation/litewallet-core/blob/main/asis.md
 
 #ifndef LWChainParams_h
 #define LWChainParams_h

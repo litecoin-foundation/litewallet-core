@@ -1,6 +1,6 @@
 //
 // LWAddress.h
-// https://github.com/litecoin-foundation/litewallet-core#readme#OpenSourceLink
+// https://github.com/litecoin-foundation/litewallet-core/blob/main/asis.md
 
 #ifndef LWAddress_h
 #define LWAddress_h
