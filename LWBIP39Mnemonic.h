@@ -1,6 +1,6 @@
 //
 //  LWBIP39Mnemonic.h
-//  https://github.com/litecoin-foundation/litewallet-core#readme#OpenSourceLink
+//  https://github.com/litecoin-foundation/litewallet-core/blob/main/asis.md
 
 #ifndef LWBIP39Mnemonic_h
 #define LWBIP39Mnemonic_h

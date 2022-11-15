@@ -1,6 +1,6 @@
 //
 //  LWPeerManager.h
-//  https://github.com/litecoin-foundation/litewallet-core#readme#OpenSourceLink
+//  https://github.com/litecoin-foundation/litewallet-core/blob/main/asis.md
 
 #ifndef LWPeerManager_h
 #define LWPeerManager_h

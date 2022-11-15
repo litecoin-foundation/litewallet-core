@@ -1,6 +1,6 @@
 //
 //  LWBech32.h 
-//  https://github.com/litecoin-foundation/litewallet-core#readme#OpenSourceLink
+//  https://github.com/litecoin-foundation/litewallet-core/blob/main/asis.md
 
 #ifndef LWBech32_h
 #define LWBech32_h

@@ -1,6 +1,6 @@
 //
 //  LWPeer.c
-//  https://github.com/litecoin-foundation/litewallet-core#readme#OpenSourceLink
+//  https://github.com/litecoin-foundation/litewallet-core/blob/main/asis.md
 
 #include "LWPeer.h"
 #include "LWMerkleBlock.h"
