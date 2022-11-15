@@ -1515,3 +1515,52 @@ void LWPeerAcceptMessageTest(LWPeer *peer, const uint8_t *msg, size_t msgLen, co
 {
     _LWPeerAcceptMessage(peer, msg, msgLen, type);
 }
+
+void LWPeerSendMWEBHeaderMessage(LWPeer *peer)
+{
+    //MSG_MWEBHEADER
+    // LWPeerSendMessage(peer, NULL, 0, MSG_VERACK);
+    // ((LWPeerContext *)peer)->sentVerack = 1;
+}
+
+void LWPeerSendMWEBLeafsetMessage(LWPeer *peer)
+{
+    //MSG_MWEBLEAFSET
+    // LWPeerSendMessage(peer, NULL, 0, MSG_VERACK);
+    // ((LWPeerContext *)peer)->sentVerack = 1;
+}
+
+void LWPeerSendGetMWEBUTXOsMessage(LWPeer *peer)
+{
+    //MSG_GETMWEBUTXOS
+    // LWPeerSendMessage(peer, NULL, 0, MSG_VERACK);
+    // ((LWPeerContext *)peer)->sentVerack = 1;
+}
+
+void LWPeerSendMWEBUTXOsMessage(LWPeer *peer)
+{
+    //MSG_MWEBUTXOS
+    // LWPeerSendMessage(peer, NULL, 0, MSG_VERACK);
+    // ((LWPeerContext *)peer)->sentVerack = 1;
+}
+
+void LWPeerSendAddressV2Message(LWPeer *peer)
+{
+    //MSG_ADDRV2
+    // LWPeerSendMessage(peer, NULL, 0, MSG_VERACK);
+    // ((LWPeerContext *)peer)->sentVerack = 1;
+}
+
+void LWPeerSendMWEBUTXOsMessage(LWPeer *peer)
+{
+    //MSG_MWEBUTXOS
+    // LWPeerSendMessage(peer, NULL, 0, MSG_VERACK);
+    // ((LWPeerContext *)peer)->sentVerack = 1;
+}
+
+void LWPeerSendAddressMessage(LWPeer *peer)
+{
+    //MSG_SENDADDR
+    // LWPeerSendMessage(peer, NULL, 0, MSG_VERACK);
+    // ((LWPeerContext *)peer)->sentVerack = 1;
+}
