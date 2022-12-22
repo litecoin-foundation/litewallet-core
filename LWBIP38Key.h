@@ -1,6 +1,6 @@
 //
 //  LWBIP38Key.h
-//  https://github.com/litecoin-foundation/litewallet-core#readme#OpenSourceLink
+//  https://github.com/litecoin-foundation/litewallet-core/blob/main/asis.md
 
 #ifndef LWBIP38Key_h
 #define LWBIP38Key_h

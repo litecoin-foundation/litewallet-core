@@ -1,6 +1,6 @@
 //
 //  LWBIP32Sequence.c
-//  https://github.com/litecoin-foundation/litewallet-core#readme#OpenSourceLink
+//  https://github.com/litecoin-foundation/litewallet-core/blob/main/asis.md
 
 #include "LWBIP32Sequence.h"
 #include "LWCrypto.h"
